@@ -8,7 +8,8 @@
 -   Node Js
 -   React
 -   TypeScript
--   Tailwind
+-   Tailwind CSS
+-   Tailwind CSS Animate
 -   Mongoose
 
 -   Clerk
