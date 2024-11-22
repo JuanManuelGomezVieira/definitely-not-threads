@@ -1,3 +1,7 @@
+## URL
+
+[https://definitely-not-threads.vercel.app/]
+
 ## Using
 
 -   Next JS
@@ -10,8 +14,6 @@
 -   Clerk
 -   UploadThing + UploadThin/React
 -   Svix
-
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
